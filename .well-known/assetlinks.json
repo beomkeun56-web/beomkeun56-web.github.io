@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.beomkeun56_web.twa",
+        "sha256_cert_fingerprints": ["37:33:C9:AE:C6:3A:C3:52:2F:E1:F7:D8:E0:81:DF:48:D3:33:A3:02:38:D6:57:52:0C:93:76:2B:B6:1B:A1:E5"]
+      }
+    }]
